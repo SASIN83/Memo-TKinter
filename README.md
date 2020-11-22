@@ -10,8 +10,8 @@ Few Features:
   4. Deletion and viewing option is also available along with creating a Memo
   5. You can log out from session and login to another session with another account so that another user can use without quitting the program.
   
-  What I learned:
-    1. Storing, reading, writing data from files and folders in System.
-    2. Using data to use as authentication method.
-    3. GUI making and some basic concepts of graphics.
+ What I learned:
+  1. Storing, reading, writing data from files and folders in System.
+  2. Using data to use as authentication method.
+  3. GUI making and some basic concepts of graphics.
    
